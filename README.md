@@ -1,2 +1,2 @@
 # Countdown-app
-This is a java mobile application for countdown
+This is a countdown mobile application built using java
